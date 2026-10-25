@@ -1,0 +1,3 @@
+ipc_base_20237baa955a44fe4eada201c196338fb3be: Corresponde a la base de datos descargada y trabajada para esta evaluación.
+
+mi_conjunto_limpio: corresponde al archivo csv resultante de los trabajado en el cuaderno ya limpio y normalizado
